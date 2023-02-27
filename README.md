@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MariaClaudia1328
-- 👀 I’m interested in front-end and unity
+- 👀 I’m interested in front-en
 - 🌱 I’m currently learning react JS and react native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mariaclaudia8.0.mc@gmail.com
