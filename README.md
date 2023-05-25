@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MariaClaudia1328
-- 👀 I’m interested in front-en
-- 🌱 I’m currently learning react JS and react native
+- 👀 I’m interested in front-end and back-end
+- 🌱 I’m currently learning react JS and Typescript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mariaclaudia8.0.mc@gmail.com
 
